@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.4" orientation="orthogonal" renderorder="right-down" width="25" height="15" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="1">
+ <tileset firstgid="1" source="PMDM5Juego.tsx"/>
+ <layer id="1" name="Suelo" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJx9lN0NBCEIhC9IG0aboJDrv5nbB0nG72AfNiorw/Azun0+6/n8+Yas49iH2PVOyPl71jjrBA795jlvwZ2IQd8Q227ibPmn+HqOw9cFk7mn3waGF36O/F18HZhVLfPespvDEGy1RbEPwdD4w24uGY/95p596HrCnKbYdoEZhf3bxPYXzMTJfpKz5jxf7nCO6cc66gxXs6G97PKe9l+DzIm9Vn1V3BOPvVAdMJbOZWqxqjtnrbJ187wbTOIt5BaCoXy33VqndqhZ3qvetIrTsnumqGnWgG8SNa++rHM1V8pp2d2/TvuVRpPHD7LGGNY=
+  </data>
+ </layer>
+ <layer id="2" name="Muros" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxbxcigcAyIHwHxXSYGhntAfB+KHyKxHwDxGUYwPlACpEuBuAyIY4DYAcoug4qXIrGLgZjWIBqPHZnM1LEjgpGhARgGCdjkWqlkB8gf93HYsRBoxyIgXkyhXSB/PMJhB7UAPn9QC4D8cZfGdpTQIf0WMuJPv9QAvVS0A5j+ErCJv2BkeNBPJTsW4bADBCZTaAewPEgA5teEhbj9sWA9jePjJNCO00A7VgPxKWB5iozXAMUqgDiUicEhD1jmhgHpcCAGhvsBYLg4YMNAOYfTEP0MMAwyHwC7s0N1
+  </data>
+ </layer>
+ <layer id="3" name="Agujeros" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtAByTAPtglEwWAG+tDES081I9DM9AABX4wCB
+  </data>
+ </layer>
+ <layer id="4" name="Decoracion" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4AwWMI8OO0IYIHQVoy0s4NUcABox3462DPSwHNGhgUg+g8TA8NfJtra9Qto/m8cdhQyMTgUQXExENPSHdIs5OsFAHWADHc=
+  </data>
+ </layer>
+ <layer id="5" name="Obstaculos" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBj8oBiPnBkTdezoB+IJQDwRyhdgpo655IBVQD+tBuI1VPIbNnAMaPZxID5BhB2WUDVWTBBsjUcPMNwW4DPLDCgvhUVNKNTMYCAdAsThSHYUMQLTACNhd8KAOdB8aTx25APpAqgd/6Hm9gHpfhLssACaL4PFjkJkdwPZxVSOQ2mgeTK4zCTBrtVAv66B+lcSTZ85kG9BBXcfB5p/AkuYkptnnzHiT1vkgm1A92ynYV4DgUtA8y/T2A50AADi/x0a
+  </data>
+ </layer>
+ <layer id="6" name="Premios" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh8QIppoF2AAMS6ZTC5mV5gJPp5KAFs8TPY42zUfdQDAKj6AOE=
+  </data>
+ </layer>
+ <layer id="7" name="Altura" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgaoASIS6HsL0wD544+oN39QDxhAN0w2AEwfhYQUvOPCDWUgv90sIOBmTg7njDS2B3DDOxgYmiYA8SzgXgWEA+0e4YiAAAaQw6D
+  </data>
+ </layer>
+</map>
